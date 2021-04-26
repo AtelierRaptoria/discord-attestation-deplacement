@@ -1,0 +1,19 @@
+{
+    "IdentifiantDiscord#0000": {
+        "pseudo": "Pseudo",
+        "nom": "Prénom Nom",
+        "date_naissance": "01/01/1970",
+        "lieu_naissance": "Paris",
+        "domicile": "1 rue de Rivoli 75001 Paris",
+        "lieu_attestation": "Paris"
+    },
+
+    "JamesBond#0007": {
+        "pseudo": "007",
+        "nom": "James Bond",
+        "date_naissance": "11/11/1921",
+        "lieu_naissance": "Londres",
+        "domicile": "3 place Bellecour 69002 Lyon",
+        "lieu_attestation": "Lyon"
+    }
+}

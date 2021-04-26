@@ -1,0 +1,27 @@
+{
+  "name": "discord-attestation-deplacement",
+  "version": "1.0.0",
+  "description": "Avec votre bot Discord, vous pourrez remplir automatiquement vos attestations de déplacement en quelques secondes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/AtelierRaptoria/discord-attestation-deplacement.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "attestation"
+  ],
+  "author": "Raptoria",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://gitlab.com/AtelierRaptoria/discord-attestation-deplacement/issues"
+  },
+  "homepage": "https://gitlab.com/AtelierRaptoria/discord-attestation-deplacement#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
